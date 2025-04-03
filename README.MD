@@ -13,7 +13,7 @@ Simply clone the repo and run the code from Apache and any other general-purpose
 - All the files that make up a React app.
 
 
-[Text in Spanish here](README_ES.MD)
+[Texto en español aquí](README_ES.MD)
 
 ![](img/logo.svg)
 ---

@@ -9,7 +9,7 @@ Simplemente clona el repositorio y ejecuta el código desde Apache u otro servid
 ## Archivos
 - Todos los archivos que componen una aplicación React.
 
-[Texto en inglés aquí](README.MD)
+[Texto in English here](README.MD)
 
 ![](img/logo.svg)
 ---
