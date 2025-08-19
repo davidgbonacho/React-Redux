@@ -10,7 +10,7 @@ Simply clone the repo and run the code from Apache and any other general-purpose
 
 
 ## Files
-- All the files that make up a React app.
+- All the files that make up a React app. 
 
 
 [Texto en español aquí](README_ES.MD)
